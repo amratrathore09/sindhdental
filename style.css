@@ -228,7 +228,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/back-min.jpg);
+	background-image: linear-gradient(rgba(0, 0, 10, 0.7), rgba(0, 0, 10, 0.7)), url(./img/back-min.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -383,7 +383,7 @@ p {
 }
 
 .layer:hover h5 {
-	bottom: 35%;
+	bottom: 30%;
 	opacity: 1;
 }
 
