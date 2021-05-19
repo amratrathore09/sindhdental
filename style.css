@@ -147,7 +147,7 @@ p {
 	left: 50%;
 	transform: translate(-50%, -50%) scale(0);
 	color: rgba(255, 0, 0, 0.267);
-	font-size: 13rem;
+	font-size: 7rem;
 	letter-spacing: 50px;
 	z-index: -1;
 	transition: 0.3s ease letter-spacing;
@@ -228,7 +228,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: linear-gradient(rgba(0, 0, 10, 0.7), rgba(0, 0, 10, 0.7)), url(./img/back-min.jpg);
+	background-image: linear-gradient(rgba(0, 0, 10, 0.7), rgba(0, 0, 10, 0.7)), url(./img/back-min-min.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
